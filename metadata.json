@@ -1,0 +1,10 @@
+{
+  "name": "Hope Dental Clinic Voice Agent",
+  "description": "An AI receptionist for Hope Dental Clinic using Gemini Live API",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
